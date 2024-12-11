@@ -1,0 +1,1 @@
+{"content": "import React from 'react';\n\nfunction App() {\n  return (\n    <div style={{ \n      display: 'flex', \n      justifyContent: 'center', \n      alignItems: 'center', \n      height: '100vh',\n      fontSize: '2rem',\n      fontFamily: 'Arial, sans-serif'\n    }}>\n      <h1>Hello, World!</h1>\n    </div>\n  );\n}\n\nexport default App;", "encoding": "base64"}

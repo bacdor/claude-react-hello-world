@@ -1,1 +1,33 @@
-ewogICJuYW1lIjogImNsYXVkZS1yZWFjdC1oZWxsby13b3JsZCIsCiAgInZlcnNpb24iOiAiMC4xLjAiLAogICJwcml2YXRlIjogdHJ1ZSwKICAiZGVwZW5kZW5jaWVzIjogewogICAgInJlYWN0IjogIl4xOC4yLjAiLAogICAgInJlYWN0LWRvbSI6ICJeMTguMi4wIiwKICAgICJyZWFjdC1zY3JpcHRzIjogIjUuMC4xIgogIH0sCiAgInNjcmlwdHMiOiB7CiAgICAic3RhcnQiOiAicmVhY3Qtc2NyaXB0cyBzdGFydCIsCiAgICAiYnVpbGQiOiAicmVhY3Qtc2NyaXB0cyBidWlsZCIsCiAgICAidGVzdCI6ICJyZWFjdC1zY3JpcHRzIHRlc3QiLAogICAgImVqZWN0IjogInJlYWN0LXNjcmlwdHMgZWplY3QiCiAgfSwKICAiZXNsaW50Q29uZmlnIjogewogICAgImV4dGVuZHMiOiBbCiAgICAgICJyZWFjdC1hcHAiCiAgICBdCiAgfSwKICAiYnJvd3NlcnNsaXN0IjogewogICAgInByb2R1Y3Rpb24iOiBbCiAgICAgICI+MC4yJSIsCiAgICAgICJub3QgZGVhZCIsCiAgICAgICJub3Qgb3BfbWluaSBhbGwiCiAgICBdLAogICAgImRldmVsb3BtZW50IjogWwogICAgICAibGFzdCAxIGNocm9tZSB2ZXJzaW9uIiwKICAgICAgImxhc3QgMSBmaXJlZm94IHZlcnNpb24iLAogICAgICAibGFzdCAxIHNhZmFyaSB2ZXJzaW9uIgogICAgXQogIH0KfQ==
+{
+  "name": "claude-react-hello-world",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
